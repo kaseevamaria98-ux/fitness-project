@@ -1,6 +1,6 @@
 # Система записи на спортивные тренировки "Fit Arena"
 
-Ссылка на репозиторий: https://github.com/kaseevamaria98-ux/fitness-project/edit/main/README.md
+Ссылка на репозиторий: https://github.com/kaseevamaria98-ux/fitness-project
 
 ## 1. Краткое описание проекта
 
