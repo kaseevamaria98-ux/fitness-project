@@ -58,4 +58,4 @@
 ---
 
 ## Ссылка на репозиторий
-https://github.com/kaseevamaria98-uz/fitness-project
+[https://github.com/kaseevamaria98-uz/fitness-project](https://github.com/kaseevamaria98-ux/fitness-project)
